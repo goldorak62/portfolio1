@@ -1,0 +1,16 @@
+header {
+    background-color: blueviolet;
+}
+        figure {
+            border: 2px solid red;
+            width: 150px;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        .test {
+            border: 3px solid #333e33;
+            color: #458;
+        }
